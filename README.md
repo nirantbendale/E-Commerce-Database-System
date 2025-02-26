@@ -47,7 +47,7 @@ A comprehensive MySQL database solution designed for e-commerce platforms. This 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/ecommerce-mysql.git
+git clone https://github.com/nirantbendale/ecommerce-mysql.git
 cd ecommerce-mysql
 ```
 
