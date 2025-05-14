@@ -13,13 +13,6 @@ A comprehensive MySQL database solution designed for e-commerce platforms. This 
 - Address Management
 - Category Management
 
-### Advanced Features
-- Automated Stock Management
-- Real-time Analytics
-- Customer Segmentation
-- Sales Performance Tracking
-- Product Performance Analysis
-
 ## 📋 Database Structure
 
 ### Main Tables
@@ -174,16 +167,6 @@ ecommerce-mysql/
 - Optimized table relationships
 - Efficient query design
 
-## 🔒 Security Features
-- Password hashing
-- Input validation
-- Transaction management
-- Error handling
-
-## 🎉 Acknowledgments
-- Schema design inspired by real-world e-commerce platforms
-- Optimized for modern e-commerce requirements
-- Implements industry best practices
 
 ---
 Created by Nirant Bendale - Feel free to contact me!
